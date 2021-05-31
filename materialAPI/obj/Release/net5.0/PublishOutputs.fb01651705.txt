@@ -1,0 +1,13 @@
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/appsettings.Development.json
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/appsettings.json
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/materialAPI.dll
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/materialAPI.deps.json
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/materialAPI.runtimeconfig.json
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/materialAPI.pdb
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/Docker.DotNet.dll
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/Newtonsoft.Json.dll
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/RestSharp.dll
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

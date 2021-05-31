@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "T4jhvDBVvpv6tXZjE3g5HyK/JwkyNqLyaw/XeKrp40ZettOVYGmv79kHl4ncsWGvegdSqkKioWhtENKnY3lc+g==",
+  "success": true,
+  "projectFilePath": "/Users/GabrielGSG/Documents/pruebas Azure/material/materialAPI/materialAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/GabrielGSG/.nuget/packages/docker.dotnet/3.125.4/docker.dotnet.3.125.4.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.10.8/microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/swashbuckle.aspnetcore/6.1.4/swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.4/swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.4/swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.4/swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
+    "/Users/GabrielGSG/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
